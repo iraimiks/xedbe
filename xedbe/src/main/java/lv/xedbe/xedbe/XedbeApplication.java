@@ -8,7 +8,7 @@ public class XedbeApplication {
 
 
 
-	public static void main(String[] args) {
+	public static void main(String... args) {
 		SpringApplication.run(XedbeApplication.class, args);
 	}
 
